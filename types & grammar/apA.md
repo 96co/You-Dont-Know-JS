@@ -209,7 +209,7 @@ The only absolute take-away is that there is no absolute *right* answer here. Ex
 
 Either should always be done with caution, defensive code, and lots of obvious documentation about the risks.
 
-## `<script>`s
+## `<scripts>`
 
 Most browser-viewed websites/applications have more than one file that contains their code, and it's common to have a few or several `<script src=..></script>` elements in the page that load these files separately, and even a few inline-code `<script> .. </script>` elements as well.
 
